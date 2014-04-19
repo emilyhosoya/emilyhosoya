@@ -17,7 +17,7 @@ $(function ($) {
 		                    highdef:true,
 		                    hd:true, 
 		                    adproof: true,
-		                    volume:50 // control the video volume by setting a value from 0 to 99
+		                    volume:5 // control the video volume by setting a value from 0 to 99
 		                 });
 						
 		} else {
